@@ -1,0 +1,15 @@
+### 
+GET http://127.0.0.1:8000/hospital/
+Accept: application/json
+
+### 
+GET http://127.0.0.1:8000/doctor/
+Accept: application/json
+
+### 
+GET http://127.0.0.1:8000/patient/
+Accept: application/json
+
+### 
+GET http://127.0.0.1:8000/departments/
+Accept: application/json
